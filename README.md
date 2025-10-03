@@ -11,4 +11,3 @@ Applied conditional formatting to highlight high and low-performing areas.
 Designed a clean, professional dashboard tailored for Adidas sales analysis.
 
 
-Data I have downloaded from the Kaggle and the link : http://kaggle.com/datasets/sagarmorework/adidas-us-sales
